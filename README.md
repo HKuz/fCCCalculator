@@ -2,4 +2,4 @@
 
 freeCodeCamp front-end development project to build a calculator.
 
-<!--See the [page here](https://hkuz.github.io/fCCCalculator/). -->
+[Project link](https://hkuz.github.io/fCCCalculator/)
